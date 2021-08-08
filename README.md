@@ -1,12 +1,11 @@
 <h1 align="center">
-  COM112 - Algorithm and Data Structure 2
+  Algorithm and Data Structure 2
 </h1>
 
 <h3 align="center">
-  
+  COM112 - UNIFEI
 </h3>
 
-<p align="center"> COM112 - UNIFEI </p>
 <p align="center">Personal and informal repository for studying proposes.</p>
 
 <p align="center">
